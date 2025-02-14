@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Mihir!
 
-<!--
-**mihirgune/mihirgune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Computer Science Graduate Student** at **University of Illinois Urbana-Champaign** (GPA: **4.0**, Graduating **Spring 2025**)  
+- 🚀 **Passionate about Distributed Systems** – currently honing my skills to become an **SDE focused on building secure and scalable software systems**  
+- 💼 **Seeking a Software Engineering role** starting **May 2025**  
+- 💻 **Previous Experience:**  
+  - **Software Engineer Intern** at **AmexGBT** 
+  - **Full-time Software Engineer** at **Qualys**
+  - **Backend Developer** at UIUC’s **Secure and Transparent Systems Lab**  
+- ☁️ **Cloud Enthusiast** – deep expertise in Kubernetes from Qualys & currently a **Teaching Assistant for UIUC’s Cloud Computing Applications course**  
+- ⚡ Lifelong **Liverpool FC** supporter – *You'll Never Walk Alone!*  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+📫 **Let's connect!**  
+[LinkedIn]([https://www.linkedin.com/in/mihir-gune/]) 
