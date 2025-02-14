@@ -12,4 +12,4 @@
 
 ---
 📫 **Let's connect!**  
-[LinkedIn](https://www.linkedin.com/in/mihir-gune/
+[LinkedIn](https://www.linkedin.com/in/mihir-gune/)
